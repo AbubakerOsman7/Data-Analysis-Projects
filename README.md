@@ -1,20 +1,26 @@
-# PROJECT 1: Sales Analysis for Company X.
-__Files__: _Sales_Data_ & _Sales-Analysis.ipynb._
+# Data Science Portfolio:
+__Files__: _Electronic_Store_Purchases.ipynb_, _NYC_Airbnb.ipynb_ & _911_Calls.ipynb_ <br>
+__Tools__: Pandas, Folium, Seaborn and Matplotlib
+
+Repository containing portfolio of data science projects completed by me for self learning and hobby purposes.
+_Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
+
+## Setup:
+To access all of the files I recommend you fork this repo and then clone it locally. Instructions on how to do this can be found here: https://help.github.com/en/github/getting-started-with-github/fork-a-repo
+
+The other option is to click the green "clone or download" button and then click "Download ZIP". You then should extract all of the files to the location you want to edit your code.
+
+Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.html <br>
+Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
+
 
 ## Background Information:
-In this project, we'll analyse hundreds of thousands of 'Electronics Store' purchases, broken down by month, product type, cost, purchase address, etc. Moreover, we'll use **Pandas** and **Matplotlib** to extract and Analyse the information, Visualise it, and answer (**5**) high-level _Business_ questions related to our Data.
+#### Electronic_Store_Purchases.ipynb
+...
 
-- **Q1**: What was the (best) Month for Sales? How much was (earned) in that Month?
-- **Q2**: What City sold the (most) Products?
-- **Q3**: What (time) should we display Advertisemens to (Maximise) the likelihood of Customer’s buying Products?
-- **Q4**: Which Products are (most oftenly) sold (together)?
-- **Q5**: What Product sold the (most)? Why do you think it sold the most?
+#### NYC_Airbnb.ipynb
+...
 
+#### 911_Calls.ipynb
+...
 
-To answer these questions, we walk through **many** different Pandas & Matplotlib **methods**. These include:
-- Concatenating **multiple** CSVs together to create a NEW DataFrame (pd.concat).
-- Augmenting Data to create NEW Columns.
-- Using the .apply() .filter() and .transform() methods.
-- Using groupby() to **Aggregate** Statistics.
-- Plotting '_Bar Charts_' and '_Line Graphs_' to visualise our results.
-- Labeling and **Styling** our Graphs.
