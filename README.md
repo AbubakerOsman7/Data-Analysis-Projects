@@ -1,5 +1,5 @@
 # Data Science Portfolio:
-__Files__: _Electronic_Store_Purchases.ipynb_, _NYC_Airbnb.ipynb_ & _911_Calls.ipynb_ <br>
+__Files__: _(1) Electronic_Store_Purchases.ipynb_, _(2) NYC_Airbnb.ipynb_ & _(3) 911_Calls.ipynb_ <br>
 __Tools__: Pandas, Folium, Seaborn and Matplotlib
 
 Repository containing portfolio of data science projects completed by me for self learning and hobby purposes.
