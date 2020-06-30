@@ -1,6 +1,6 @@
 # Data Science Portfolio:
-__Files__: _(1) - Electronic_Store_Purchases.ipynb_, _(2) - NYC_Airbnb.ipynb_ & _(3) - 911_Calls.ipynb_ <br>
-__Tools__: Pandas, Folium, Seaborn and Matplotlib
+__Files__: _(1) - Electronic_Store_Purchases.ipynb_, _(2) - NYC_Airbnb.ipynb_, _(3) - 911_Calls_Montgomery_County_PA.ipynb._ <br>
+__Tools__: Pandas, Matplotlib, Seaborn and Scikit-learn.
 
 Repository containing portfolio of data science projects completed by me for self learning and hobby purposes.
 _Note: Data used in the projects (accessed under data directory) is for demonstration purposes only._
@@ -15,12 +15,4 @@ Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.
 
 
 ## Background Information:
-#### Electronic_Store_Purchases.ipynb
 ...
-
-#### NYC_Airbnb.ipynb
-...
-
-#### 911_Calls.ipynb
-...
-
