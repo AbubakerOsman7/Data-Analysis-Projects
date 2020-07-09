@@ -15,7 +15,7 @@ Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.
 
 ## Background Information:
 ### PROJECT 1 - Electronic Store Purchases. <br>
-PART A: (_Data Cleaning_). Tasks during this section include:
+PART A: (_Data Cleaning_).
 - STEP 1 – dropped Rows with (Column) names as their cell values.
 - STEP 2 – dropped Rows with (all) NAN Values.
 - STEP 3 – dropped duplicate Rows except for the (first) occurrence.
@@ -36,14 +36,14 @@ PART B: (_Data Exploration & Visualization_). In this section we explore (8) hig
 - QUESTION 9 – Correlation between the Variables?
 
 ### PROJECT 2 - 911 Calls for Montgomery County, PA. <br>
-PART A: (_Data Cleaning_). Tasks during this section include:
+PART A: (_Data Cleaning_).
 - STEP 1 – dropped ["e"] because it's (insignificant) and also a (Dummy) Variable - (always 1)!
 - STEP 2 – replaced NAN values for ["zip"] with '00000' after (realising) some countries do not use these codes.
 - STEP 3 – dropped duplicate Rows except for the (first) occurrence.
 - STEP 4 – converted ['timeStamp'] into a proper (DateTime) Object, then (Split) into different columns: [Hour, Date, ..., Year].
 - STEP 5 – segregated ['timeStamp'] into a Day/Night time basis.
 
-PART B: (_Data Exploration & Visualization_). In this section we explore (16) high-level questions related to our data:
+PART B: (_Data Exploration & Visualization_). In this section we answer (16) high-level questions concerning our data:
 - QUESTION 1 – Top 10 (Townships) for Calls?
 - QUESTION 2 – Top 10 (Zipcodes) for Calls?
 - QUESTION 3 – Top 10 (Stations) for Calls?
@@ -66,7 +66,7 @@ PART A: (_Data Cleaning_). Tasks during this section include:
 - STEP 3 - fortunately, there weren't any Duplicates in our DataFrame.
 - STEP 4 - columns were already of the (correct) Types.
 
-PART B: (_Data Exploration & Visualization_). In this section we explore 10 high-level questions related to our data:
+PART B: (_Data Exploration & Visualization_). In this section we answer (10) high-level questions relating to our data:
 - QUESTION 1 – Top 10 (hosts) for Listings?
 - QUESTION 2 – Most (reviewed) hosts on Airbnb?
 - QUESTION 3 – Most (reviewed) hosts (per-month)?
