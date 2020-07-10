@@ -16,9 +16,9 @@ Installing Jupyter Notebook: https://jupyter.readthedocs.io/en/latest/install.ht
 Installing Pandas library: https://pandas.pydata.org/pandas-docs/stable/install.html
 
 ## Contents:
-### Data Analysis and Visualization (Python Programming) – Exploratory Data Analysis (EDA):
-
-- [PROJECT 1 – Electronic Store Purchases](https://github.com/AbubakerOsman7/Data-Analysis-Projects/blob/master/Electronic_Store_Purchases.ipynb): EDA for hundreds of thousands of electronic store purchases gathered over 12-months. Moreover, we answer (8) high-level (business) questions related to our data.
-- [PROJECT 2 – 911 Calls for Montgomery County, PA](https://github.com/AbubakerOsman7/Data-Analysis-Projects/blob/master/911_Calls.ipynb): EDA for emergency calls in Montgomery County, Pennsylvania. Moreover, we answer (16) high-level questions concerning our data.
-- [PROJECT 3 – NYC Airbnb, (2019)](https://github.com/AbubakerOsman7/Data-Analysis-Projects/blob/master/NYC_Airbnb.ipynb): EDA for Airbnb listings and metrics in New York City. Moreover, we answer (10) high-level questions relating to our data.
+### Data Analysis and Visualization (Python Programming):
+- **Exploratory Data Analysis (EDA):**
+  - [PROJECT 1 – Electronic Store Purchases](https://github.com/AbubakerOsman7/Data-Analysis-Projects/blob/master/Electronic_Store_Purchases.ipynb): EDA for hundreds of thousands of electronic store purchases gathered over 12-months. Moreover, we answer (8) high-level (business) questions related to our data.
+  - [PROJECT 2 – 911 Calls for Montgomery County, PA](https://github.com/AbubakerOsman7/Data-Analysis-Projects/blob/master/911_Calls.ipynb): EDA for emergency calls in Montgomery County, Pennsylvania. Moreover, we answer (16) high-level questions concerning our data.
+  - [PROJECT 3 – NYC Airbnb, (2019)](https://github.com/AbubakerOsman7/Data-Analysis-Projects/blob/master/NYC_Airbnb.ipynb): EDA for Airbnb listings and metrics in New York City. Moreover, we answer (10) high-level questions relating to our data.
 #
